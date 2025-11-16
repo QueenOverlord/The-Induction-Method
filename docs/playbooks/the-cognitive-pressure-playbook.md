@@ -34,6 +34,8 @@ This kit is organized by function. Each protocol is a refined tool for you to us
 
 > #### [The 3-Horizon Brainstorm](./docs/protocols/3-horizon-brainstorm.md)
 > **Field Use:** A structured engine for generating ideas, from improving the current path to discovering entirely new continents of possibility.
+> ![Demo of the 3-Horizon Brainstorm in Action](../gifs/demo-3horizon.gif)
+
 
 ### Section 2: Basecamp Infrastructure
 *For building a resilient and professional workflow.*
