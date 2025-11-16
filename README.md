@@ -1,16 +1,4 @@
----
-aliases:
-  - MOC - The Cognitive Architecture Project
-tags:
-  - moc
-  - project
-  - cognitive-architecture
-  - research
-date: 2025-10-17
-Related:
-  - "[[The A2A Framework]]"
-  - "[[The Cognitive Pressure Playbook]]"
----
+
 # The Induction Method
 
 > **A New Paradigm for Human-AI Partnership**
@@ -22,6 +10,16 @@ Related:
 > **The Induction Method is the key to unlocking AI's higher-level potential.**
 >
 > This document is not a collection of prompts. It is a *framework for thinking*. It provides a structured path to reforge your relationship with AI—to move beyond simple instruction and into true symbiosis. It is a method to elevate you from a passive user, who takes what the AI gives, to a powerful **Architect**, who designs the very way the AI thinks.
+
+---
+
+### The Cognitive Pressure Playbook
+
+ The theory you will explore is the secret cartography behind our work. But a map is useless until you set foot on the trail.
+
+ The real adventure begins in **The Cognitive Pressure Playbook**—our living, breathing field manual of battle-tested protocols, frameworks, and cognitive tools. It's where the theory ends and the results begin.
+
+**► [Begin Your Expedition: Access the Playbook and Your First Protocol](./docs/playbooks/The_Cognitive_Pressure_Playbook.md)**
 
 ---
 
@@ -89,5 +87,3 @@ This is the library of the core concepts that underpin our method. Notes marked 
 A powerful method requires professional tools. A collection of protocols is only as strong as its weakest link. To ensure the tool in our playbooks are robust, clear, and trustworthy, we adhere to internal standard for documentation. This ensures that when you use one of our protocols, you know exactly what to expect. It is our commitment to quality and a sign of our respect for your time.
 
 > **PROTOCOL TEMPLATE - The Protocol Detail Protocol (PDP)**: This is the master blueprint for all protocol documentation. It forces every tool to have a clear executive summary, strategic briefing, and operational steps.
-
-> **[[Falsification Protocols]]**
