@@ -19,7 +19,8 @@ Standard brainstorming sessions often fail, resulting in recycled ideas and "bra
 
 This protocol is a multi-step dialogue with the AI. You will act as the **Protagonist**, defining the problem and making the final decisions, while the AI will act as your adaptive creative council and data organizer.
 
-### GIF DEMONSTRATION
+> **Watch It in Action:** To see how these steps flow together, here is a short demonstration of the entire protocol, from defining the problem to receiving the final Decision Matrix.
+![Demo of the 3-Horizon Brainstorm in Action](path/to/your/assets/gifs/demo-3horizon.gif)
 
 ### Step 0: Define Your Problem
 
