@@ -19,7 +19,7 @@
 
  The real adventure begins in **The Cognitive Pressure Playbook**—our living, breathing field manual of battle-tested protocols, frameworks, and cognitive tools. It's where the theory ends and the results begin.
 
-**► [Begin Your Expedition: Access the Playbook and Your First Protocol](./docs/playbooks/The_Cognitive_Pressure_Playbook.md)**
+**► [Begin Your Expedition: Access the Playbook and Your First Protocol](./docs/playbooks/The Cognitive Pressure Playbook.md)**
 
 ---
 
