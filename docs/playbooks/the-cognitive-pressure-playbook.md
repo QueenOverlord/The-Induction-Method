@@ -46,7 +46,7 @@ This kit is organized by function. Each protocol is a refined tool for you to us
   
 
 
-> #### [The Epoch Protocol](./protocols/epoch-protocol.md)
+> #### [The Epoch Protocol](../protocols/epoch-protocol.md)
 > **Field Use:** Our discipline for creating "save states" of your work. It ensures no discovery, however small, is ever lost to a crashed session.
 
 > #### [The Persona Forge](./protocols/persona-forge.md)
