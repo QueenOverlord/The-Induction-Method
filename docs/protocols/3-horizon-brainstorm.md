@@ -21,7 +21,7 @@ This protocol is a multi-step dialogue with the AI. You will act as the **Protag
 
 > **Watch It in Action:** To see how these steps flow together, here is a short demonstration of the entire protocol, from defining the problem to receiving the final Decision Matrix.
 
-![Demo of the 3-Horizon Brainstorm in Action](docs/gifs/demo-3horizon.gif)
+![Demo of the 3-Horizon Brainstorm in Action](../gifs/demo-3horizon.gif)
 
 
 ### Step 0: Define Your Problem
