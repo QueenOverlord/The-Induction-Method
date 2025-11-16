@@ -30,6 +30,11 @@ The "Cognitive MRI" is a diagnostic weapon. Its purpose is to prevent the single
 
 This protocol is a "zero-input" prompt that initiates a dynamic, four-phase dialogue with the AI. Your only task is to paste the prompt and then answer the questions the AI asks you.
 
+> **Watch It in Action:** To see how these steps flow together, here is a short demonstration of the entire protocol, from defining the problem to receiving the final Decision Matrix.
+
+![Demo of the Cognitive MRI in Action](../gifs/demo-cognitive-mri.gif)
+
+
 ### Step 1: Initiate the Dialogue
 
 Copy the Master Prompt below and paste it into your AI interface. **You do not need to edit it.** Just paste it and send.

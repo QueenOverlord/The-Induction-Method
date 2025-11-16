@@ -31,7 +31,8 @@ This kit is organized by function. Each protocol is a refined tool for you to us
 
 > #### [The Cognitive MRI](../protocols/cognitive-mri.md)
 > **Field Use:** A diagnostic protocol to achieve profound clarity on a problem *before* you commit resources. It's our method for mapping the terrain before taking the first step.
-> ![Demo of the 3-Horizon Brainstorm in Action](../gifs/demo-cognitive-mri.gif)
+>![Demo of the Cognitive MRI in Action](../gifs/demo-cognitive-mri.gif)
+
 
 > #### [The 3-Horizon Brainstorm](../protocols/3-horizon-brainstorm.md)
 > **Field Use:** A structured engine for generating ideas, from improving the current path to discovering entirely new continents of possibility.
