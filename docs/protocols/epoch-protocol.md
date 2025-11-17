@@ -20,6 +20,11 @@ The single greatest threat to long-term, complex work with AI is context loss. A
 
 The protocol consists of two simple prompts executed at the end of a work session (an "Epoch").
 
+
+> **Watch It in Action:** To see how these steps flow together, here is a short demonstration of the entire protocol, from synthesized session to the **saved state**.
+
+![Demo of the 3-Horizon Brainstorm in Action](../gifs/demo-epoch.gif)
+
 ### Step 1: Synthesize the Session
 
 This first prompt forces the AI to pause and create a structured summary of the work you've just completed.
