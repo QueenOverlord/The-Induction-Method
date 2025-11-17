@@ -48,8 +48,11 @@ This kit is organized by function. Each protocol is a refined tool for you to us
 
 > #### [The Epoch Protocol](../protocols/epoch-protocol.md)
 > **Field Use:** Our discipline for creating "save states" of your work. It ensures no discovery, however small, is ever lost to a crashed session.
+> 
+> ![Demo of the 3-Horizon Brainstorm in Action](../gifs/demo-epoch.gif)
 
-> #### [The Persona Forge](./protocols/persona-forge.md)
+
+> #### [The Persona Forge](../protocols/persona-forge.md)
 > **Field Use:** The craft of creating high-fidelity expert personas. This is how we summon the specific expertise needed for any challenge.
 
 ### Section 3: Verifying Your Discoveries

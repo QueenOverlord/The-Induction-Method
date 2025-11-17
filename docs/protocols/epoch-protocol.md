@@ -22,8 +22,8 @@ The protocol consists of two simple prompts executed at the end of a work sessio
 
 
 > **Watch It in Action:** To see how these steps flow together, here is a short demonstration of the entire protocol, from synthesized session to the **saved state**.
-
-![Demo of the 3-Horizon Brainstorm in Action](../gifs/demo-epoch.gif)
+>
+>![Demo of the 3-Horizon Brainstorm in Action](../gifs/demo-epoch.gif)
 
 ### Step 1: Synthesize the Session
 
