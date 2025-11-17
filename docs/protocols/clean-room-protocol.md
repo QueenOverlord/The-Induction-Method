@@ -2,9 +2,13 @@
 
 ### This protocol creates a verifiable chain of trust between you and your AI, ensuring every knowledge artifact you create is grounded in objective, external truth.
 
-> **Executive Summary**
+[← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md)
+
+**Executive Summary**
 > **Objective:** To produce a pristine, fact-checked "atomic note" by mandating a structured research and verification phase before the final output is created.
+> 
 > **Use Case:** Before finalizing any note, documentation, or claim where factual accuracy is non-negotiable. This is the quality assurance standard for your knowledge base.
+> 
 > **Expected Output:** A "Verification Manifest" proving the research was done, followed by a clean, impeccably formatted "Gallery" note ready for use.
 
 ---

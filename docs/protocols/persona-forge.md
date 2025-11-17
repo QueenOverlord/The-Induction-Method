@@ -3,6 +3,8 @@
 
 ### **This protocol transforms your generic AI chatbot into a world-class industry expert, ensuring every piece of advice you receive is relevant, credible, and speaks your language.**
 
+[← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md)
+
 **Executive Summary**
 > **Objective:** To systematically instantiate a high-fidelity, bespoke expert AI persona tailored to a specific industry or domain.
 > **Use Case:** Before tackling any problem that requires deep, specialized industry knowledge, from marketing strategy to technical architecture.

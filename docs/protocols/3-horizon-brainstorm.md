@@ -2,6 +2,8 @@
 
 ### **This protocol turns a 3-hour brainstorming meeting into a 15-minute, AI-driven process that delivers a prioritized action plan.**
 
+[← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md) 
+
 **Executive Summary**
 > **Objective:** To systematically generate 100+ creative ideas for a specific problem and prioritize them into an actionable decision matrix.
 > **Use Case:** When you need to move beyond incremental thinking and discover breakthrough solutions for product innovation, marketing campaigns, or strategic business challenges.

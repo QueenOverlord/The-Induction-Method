@@ -3,6 +3,9 @@
 
 ### **This protocol prevents your most expensive engineering mistake: wasting months of developer time building the wrong solution to the wrong problem.**
 
+[← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md)
+ 
+
 **Executive Summary**
 > **Objective:** To deconstruct a complex, ambiguous problem and achieve profound clarity on its true nature *before* attempting to solve it.
 > **Use Case:** When facing a vague strategic challenge, a poorly defined project brief, or when you feel stuck and unsure of the real problem.
