@@ -4,9 +4,11 @@
 
 [← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md) 
 
-**Executive Summary**
+#### **Executive Summary**
 > **Objective:** To systematically generate 100+ creative ideas for a specific problem and prioritize them into an actionable decision matrix.
+> 
 > **Use Case:** When you need to move beyond incremental thinking and discover breakthrough solutions for product innovation, marketing campaigns, or strategic business challenges.
+> 
 > **Expected Output:** A clean, multi-tabbed table containing over 100 ideas, sorted by feasibility into "Quick Wins," "Strategic Projects," and "Moonshots."
 
 ---

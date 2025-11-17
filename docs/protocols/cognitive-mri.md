@@ -6,9 +6,11 @@
 [← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md)
  
 
-**Executive Summary**
+#### **Executive Summary**
 > **Objective:** To deconstruct a complex, ambiguous problem and achieve profound clarity on its true nature *before* attempting to solve it.
+> 
 > **Use Case:** When facing a vague strategic challenge, a poorly defined project brief, or when you feel stuck and unsure of the real problem.
+> 
 > **Expected Output:** A bespoke "Council of Agents" tailored to your problem, and a final synthesis report with actionable next steps.
 
 ---

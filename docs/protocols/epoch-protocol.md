@@ -5,9 +5,11 @@
 
 [← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md)
 
-**Executive Summary**
+#### **Executive Summary**
 > **Objective:** To create a high-density "save state" of a complex AI conversation, ensuring perfect context recall for future sessions.
+> 
 > **Use Case:** At the end of any significant work session with an AI, or before closing a browser tab, to prevent the loss of nuanced context.
+> 
 > **Expected Output:** A single, self-contained "Re-instantiation Packet" in a Markdown block that can be used to instantly restore a session.
 
 ---

@@ -4,7 +4,7 @@
 
 [← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md)
 
-**Executive Summary**
+#### **Executive Summary**
 > **Objective:** To produce a pristine, fact-checked "atomic note" by mandating a structured research and verification phase before the final output is created.
 > 
 > **Use Case:** Before finalizing any note, documentation, or claim where factual accuracy is non-negotiable. This is the quality assurance standard for your knowledge base.

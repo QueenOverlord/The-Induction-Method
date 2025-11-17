@@ -5,9 +5,11 @@
 
 [← Return to The Cognitive Pressure Playbook](../playbooks/the-cognitive-pressure-playbook.md)
 
-**Executive Summary**
+#### **Executive Summary**
 > **Objective:** To systematically instantiate a high-fidelity, bespoke expert AI persona tailored to a specific industry or domain.
+> 
 > **Use Case:** Before tackling any problem that requires deep, specialized industry knowledge, from marketing strategy to technical architecture.
+> 
 > **Expected Output:** A validated, ready-to-use AI expert, pre-loaded with the key terminology, priorities, and success metrics of your target domain.
 
 
