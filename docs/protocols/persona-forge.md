@@ -34,7 +34,7 @@ This protocol is a "zero-input" prompt that initiates a structured, four-step di
 
 > **Watch It in Action:** To see how these steps flow together, here is a short demonstration of the protocol, from a generic AI into an expert.
 >
->![Demo of the 3-Horizon Brainstorm in Action](../gifs/demo-personaforge.gif)
+>![Demo of the Persona Forge](../gifs/demo-personaforge.gif)
 
 ### Step 1: Initiate the Forging
 

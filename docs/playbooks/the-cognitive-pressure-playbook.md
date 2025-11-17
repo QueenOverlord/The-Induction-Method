@@ -54,6 +54,8 @@ This kit is organized by function. Each protocol is a refined tool for you to us
 
 > #### [The Persona Forge](../protocols/persona-forge.md)
 > **Field Use:** The craft of creating high-fidelity expert personas. This is how we summon the specific expertise needed for any challenge.
+>
+>![Demo of the Persona Forge](../gifs/demo-personaforge.gif)
 
 ### Section 3: Verifying Your Discoveries
 *For ensuring your insights are robust, defensible, and grounded in truth.*
