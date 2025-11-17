@@ -60,17 +60,17 @@ This kit is organized by function. Each protocol is a refined tool for you to us
 ### Section 3: Verifying Your Discoveries
 *For ensuring your insights are robust, defensible, and grounded in truth.*
 
-  
 
-
-> #### [Clean Room Protocol](./protocols/clean-room-protocol.md)
+> #### [Clean Room Protocol](../protocols/clean-room-protocol.md)
 > **Field Use:** A system for ensuring your documented findings are pristine and fact-based.
+>
+> ![Demo of the Clean Room Protocol in Action](../gifs/demo-cleanroom.gif)
 
-  
+
+---
 
 
-
-> **The Cartographer's Notes: The Secret Behind the Map**
+### **The Cartographer's Notes: The Secret Behind the Map**
 >
 > Have you ever wondered *how* a map is made? What principles guide the explorer to know what's important and what's just noise?
 >
