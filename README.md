@@ -23,7 +23,7 @@
 
 ---
 
-> **Our Contribution: From Academic Theory to a Professional's Playbook**
+#### **Our Contribution: From Academic Theory to a Professional's Playbook**
 >
 > The powerful techniques discussed here—Chain-of-Thought, Tree of Thoughts—are the groundbreaking work of researchers at institutions like Google and Stanford. We did not invent these methods.
 >
@@ -67,14 +67,19 @@ Cognitive Pressure is an engineering discipline applied through several key leve
 
 This is the library of the core concepts that underpin our method. Notes marked `#in-progress` are active research areas and will be expanded upon over time.
 
-- **Foundational Concepts:**
-    - **Steering Language Models** `#in-progress`: Techniques to guide an LLM's output by altering token probability in real-time.
-    - **Constrained Decoding** `#in-progress`: Methods that prohibit the generation of tokens that violate a set of rules, ensuring structural adherence.
-    - **Time-based Scoping** `#in-progress`: The practice of limiting an AI's knowledge to a specific timeframe.
+### **Foundational Concepts:**
+   - **Steering Language Models** `#in-progress`: Techniques to guide an LLM's output by altering token probability in real-time.
+   - **Constrained Decoding** `#in-progress`: Methods that prohibit the generation of tokens that violate a set of rules, ensuring structural adherence.
+   - **Time-based Scoping** `#in-progress`: The practice of limiting an AI's knowledge to a specific timeframe.
 
-- **The Lexicon:**
-    - `Tokens (The Atoms of Thought)`: The fundamental building blocks of an LLM's language and "thought."
-    - `Agent Design`: The art and science of creating effective, specialized AI personas.
+### The Lexicon: Core Concepts
+
+This project is built on a set of core concepts. You can explore the full definitions in our comprehensive [**Lexicon File**](./docs/concepts/lexicon.md).
+
+- **[Agent Design](./docs/concepts/lexicon.md#agent-design):** The art and science of creating effective, specialized AI personas to deconstruct complex problems.
+
+- **[Tokens (The Atoms of Thought)](./docs/concepts/lexicon.md#tokens-the-atoms-of-thought):** Understanding the fundamental units of an LLM's "thought" to better shape its reasoning.
+
 
 - **The Library (External Knowledge):**
     - [Constitutional AI: Harmlessness from AI Feedback (Anthropic, 2022) 🔗](https://arxiv.org/abs/2212.08073 )
@@ -86,4 +91,7 @@ This is the library of the core concepts that underpin our method. Notes marked 
 
 A powerful method requires professional tools. A collection of protocols is only as strong as its weakest link. To ensure the tool in our playbooks are robust, clear, and trustworthy, we adhere to internal standard for documentation. This ensures that when you use one of our protocols, you know exactly what to expect. It is our commitment to quality and a sign of our respect for your time.
 
-> **PROTOCOL TEMPLATE - The Protocol Detail Protocol (PDP)**: This is the master blueprint for all protocol documentation. It forces every tool to have a clear executive summary, strategic briefing, and operational steps.
+> **[PROTOCOL TEMPLATE - The Protocol Detail Protocol (PDP)](zzz-template-pdp.md)**: This is the master blueprint for all protocol documentation. It forces every tool to have a clear executive summary, strategic briefing, and operational steps.
+
+> **[The Falsification Project](zzz-falsification.md)**: Our active commitment to intellectual honesty. This document outlines the ongoing experiments designed to rigorously test, challenge, and potentially disprove them.
+
