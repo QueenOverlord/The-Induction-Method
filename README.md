@@ -1,7 +1,7 @@
 
 # The Induction Method
 
-> **A New Paradigm for Human-AI Partnership**
+### **A New Paradigm for Human-AI Partnership**
 >
 > You sense it, don't you? The feeling that the AI tools in your hands are a promise unfulfilled. You were promised a cognitive partner, but you were given a better search engine. You were promised a creative co-conspirator, but you were given a passive tool.
 >
@@ -23,7 +23,7 @@
 
 ---
 
-#### **Our Contribution: From Academic Theory to a Professional's Playbook**
+### **Our Contribution: From Academic Theory to a Professional's Playbook**
 >
 > The powerful techniques discussed here—Chain-of-Thought, Tree of Thoughts—are the groundbreaking work of researchers at institutions like Google and Stanford. We did not invent these methods.
 >
@@ -91,7 +91,7 @@ This project is built on a set of core concepts. You can explore the full defini
 
 A powerful method requires professional tools. A collection of protocols is only as strong as its weakest link. To ensure the tool in our playbooks are robust, clear, and trustworthy, we adhere to internal standard for documentation. This ensures that when you use one of our protocols, you know exactly what to expect. It is our commitment to quality and a sign of our respect for your time.
 
-> **[PROTOCOL TEMPLATE - The Protocol Detail Protocol (PDP)](zzz-template-pdp.md)**: This is the master blueprint for all protocol documentation. It forces every tool to have a clear executive summary, strategic briefing, and operational steps.
+> **[PROTOCOL TEMPLATE - The Protocol Detail Protocol (PDP)](./docs/protocols/zzz-template-pdp.md)**: This is the master blueprint for all protocol documentation. It forces every tool to have a clear executive summary, strategic briefing, and operational steps.
 
-> **[The Falsification Project](zzz-falsification.md)**: Our active commitment to intellectual honesty. This document outlines the ongoing experiments designed to rigorously test, challenge, and potentially disprove them.
+> **[The Falsification Project](./docs/protocols/zzz-falsification.md)**: Our active commitment to intellectual honesty. This document outlines the ongoing experiments designed to rigorously test, challenge, and potentially disprove them.
 
