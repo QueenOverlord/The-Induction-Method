@@ -79,7 +79,7 @@ This kit is organized by function. Each protocol is a refined tool for you to us
 > This is our secret—the art and science of human-AI symbiosis. It's our belief that by creating the right conditions, we can **induce** a state of elevated thought in both ourselves and our AI partners. It's not just about getting answers; it's about changing the way we think.
 >
 >
-> **► For the curious explorer: Discover The Induction Method and learn the art of cognitive cartography.**
+> **[► For the curious explorer: Discover The Induction Method and learn the art of cognitive cartography.](../../README.md)**
 
 ---
 
